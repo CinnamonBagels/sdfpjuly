@@ -30,7 +30,7 @@ bonus:
 * Parentheses evaluation
 
 ### JSON
-Your task is to implement a JSON interpreter that, when given a JSON algebraic data type, will output a String that represents that JSON structure
+Your task is to implement a JSON interpreter that, when given a JSON algebraic data type, will output a String that represents that JSON structure (or literal)
 
 For starters:
 ```
