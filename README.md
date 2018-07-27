@@ -19,7 +19,7 @@ function interpret(adt) -> int
 
 interpret Add (Lit 1) (Lit 1) -> 2
 ```
-3. Write a pretty-printer for your new ADT so that people can actually understand it. Surround each Expr in parentheses
+3. Write a pretty-printer for your new ADT so that people can see the underlying expression. Surround each Expr in parentheses
 ```
 function pretty(adt) -> String
 
